@@ -1,0 +1,12 @@
+{
+  "mode": "simulation",
+  "trade_amount_usdt": 13,
+  "profit_margin_percent": 1,
+  "cooldown_period_hours": 24,
+  "exchange_priority": [
+    "binance",
+    "bybit",
+    "kucoin",
+    "mexc"
+  ]
+}

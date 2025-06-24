@@ -1,0 +1,4 @@
+ccxt
+python-telegram-bot
+schedule
+python-dotenv
