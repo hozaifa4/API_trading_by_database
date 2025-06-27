@@ -1,7 +1,7 @@
 {
   "mode": "live",
   "trade_amount_usdt": 13,
-  "profit_margin_percent": 10,
+  "profit_margin_percent": 5,
   "cooldown_period_hours": 24,
   "exchange_priority": [
     "binance",
